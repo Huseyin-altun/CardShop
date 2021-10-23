@@ -4,12 +4,12 @@
 Card in shoes property name, price,rating,moun etc. 
 basket in card item 
 
-##Technologies
+## Technologies
 
-*Vue.js
-*boostrap 
+* Vue.js
+* boostrap 
 
-##Live
+## Live
 
 One Day Later..
 
